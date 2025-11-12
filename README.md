@@ -18,9 +18,6 @@ A Flutter Expense Tracker application designed to help users manage and visualiz
 - Provider or setState for state management  
 - Material Design Components  
 
-## Getting Started
-
-To run this project locally, follow the steps below:
 
 ### Prerequisites
 
@@ -29,8 +26,29 @@ Make sure you have the following installed:
 - Android Studio or VS Code  
 - A connected device or emulator  
 
-### Installation
+## Getting Started
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/<your-username>/Expense_Tracker.git
+This project is a starter template for a Flutter-based basketball training app.
+
+If you are new to Flutter or this project, here are some resources to help you get started:
+
+- [Flutter Codelab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Flutter Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Flutter Official Documentation](https://docs.flutter.dev/)
+
+---
+
+## How to Run
+
+```bash
+# Clone this repository
+git clone https://github.com/yourusername/elite_skill.git
+
+# Navigate into project folder
+cd elite_skill
+
+# Get dependencies
+flutter pub get
+
+# Run the app
+flutter run
