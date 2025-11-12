@@ -42,10 +42,10 @@ If you are new to Flutter or this project, here are some resources to help you g
 
 ```bash
 # Clone this repository
-git clone https://github.com/yourusername/elite_skill.git
+   git clone https://github.com/<your-username>/Expense_Tracker.git
 
 # Navigate into project folder
-cd elite_skill
+cd Expense_Tracker
 
 # Get dependencies
 flutter pub get
